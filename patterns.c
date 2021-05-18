@@ -20,7 +20,7 @@ int main(void)
 				i--;	
 			}
 			break;
-		case 2 :rows=get_int("Number of rows ");
+		case 2 :rows=get_int("Number of rows");
 			i=1;
 			while(i<=rows)
 			{
